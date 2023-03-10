@@ -1,4 +1,4 @@
-import sys,requests,httpx
+import sys,httpx
 arg=sys.argv
 http_methods=['GET','POST','PUT','DELETE','HEAD','OPTIONS','PATH','TRACE','CONNECT']
 def http_requests(URL):
