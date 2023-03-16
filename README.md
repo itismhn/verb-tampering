@@ -1,6 +1,10 @@
 # verb tampering
-Scripts to check verb tampering vulnerability on websites, coded in  python and bash script.
-send HTTP Request with ```GET POST PUT DELETE HEAD OPTIONS PATH TRACE CONNECT``` methods.
+two Scripts for checking  HTTP verb tampering vulnerability on websites
+that coded in python and bash script languages.
+
+with this scripts, you can send HTTP Request with below verbs
+      ```GET POST PUT DELETE HEAD OPTIONS PATH TRACE CONNECT```
+to find which HTTP Method is allowd on the server.
 
 ## Usage
 
